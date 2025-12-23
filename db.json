@@ -1,0 +1,44 @@
+{
+  "people": [
+    {
+      "id": "e6b2",
+      "nome": "Nicodemos Lourenço",
+      "cpf": "04203570417",
+      "dataNascimento": "1981-09-25",
+      "email": "nicjuniorrn@hotmail.com",
+      "telefone": "(83) 98631-5691"
+    },
+    {
+      "id": "6416",
+      "nome": "Ana Maria Braga",
+      "cpf": "12345678945",
+      "dataNascimento": "1975-06-22",
+      "email": "anananan@mail.com",
+      "telefone": "(83) 48987-8988"
+    },
+    {
+      "id": "1a03",
+      "nome": "Marcelo Henrique",
+      "cpf": "78945612325",
+      "dataNascimento": "1980-02-01",
+      "email": "marcelo@mail.com",
+      "telefone": "(84) 98250-4525"
+    },
+    {
+      "id": "4457",
+      "nome": "Lucas Lourencinho",
+      "cpf": "12345678945",
+      "dataNascimento": "2008-03-24",
+      "email": "lucasls@mail.com",
+      "telefone": "(83) 52541-7896"
+    },
+    {
+      "id": "5c87",
+      "nome": "Sinara maria",
+      "cpf": "12345678958",
+      "dataNascimento": "2000-01-01",
+      "email": "soijnoiji@meta.com",
+      "telefone": "(47) 15975-3123"
+    }
+  ]
+}
